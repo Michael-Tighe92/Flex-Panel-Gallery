@@ -1,2 +1,3 @@
 # Flex-Panel-Gallery
-Created using Flex Panel Gallery (JavaScript30)
+
+- A JavaScript program that uses flex when displaying panels
